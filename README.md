@@ -1,3 +1,8 @@
+== About author
+Author: quanframgia
+Date  : 10/1/2013
+All right reseved
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
